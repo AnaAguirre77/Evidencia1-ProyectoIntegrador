@@ -1,4 +1,4 @@
-# Evidencia1-ProyectoIntegrador
+# Evidencia 1 - ProyectoIntegrador
 
 Configuración inicial de entorno **React + Vite + Tailwind + Axios.**
 
