@@ -1,6 +1,6 @@
 # Evidencia 1 - Proyecto Integrador
 
-Configuración inicial de entorno **React + Vite + Tailwind + Axios.**
+Trabajando con: **React + Vite + Tailwind + Axios.**
 
 **Alumna:** Aguirre, Ana Luz.
 
