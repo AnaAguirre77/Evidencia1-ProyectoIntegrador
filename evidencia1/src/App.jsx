@@ -23,7 +23,7 @@ const Productos = () => {
         {productos.map((producto) => (
           <div
             key={producto.id}
-            className="border p-4 m-2 rounded shadow bg-white"
+            className="border p-4 m-2 rounded shadow bg-pink-50"
           >
             <h2 className="text-black font-bold text-lg font-serif">
               {producto.title}
